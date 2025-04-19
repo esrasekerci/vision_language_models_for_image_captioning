@@ -14,7 +14,6 @@ We follow a structured three-phase research plan:
 ## Repository Structure
 
 ```bash
-├── data/                  # Folder containing dataset
 ├── notebooks/             # Final Jupyter notebook for experiments
 ├── source/                # Source code and custom modules
 ├── reports/               # IEEE-format project reports
