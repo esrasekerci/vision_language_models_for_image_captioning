@@ -1,0 +1,5 @@
+https://github.com/esrasekerci/vision_language_models_for_image_captioning
+
+https://wandb.ai/esrasekerci-metu-middle-east-technical-university/vlm_for_image_captioning
+
+https://youtu.be/Vgzx-dh0l5M
